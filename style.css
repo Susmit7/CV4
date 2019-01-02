@@ -1,0 +1,12 @@
+body{
+    background-color: #e9e9e9;
+    background-image: url('bg.jpg');
+    background-attachment: fixed;
+}
+
+#introSection{
+    margin-top:50px;
+}
+.card{
+    border: none;
+}
